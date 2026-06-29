@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR3h0018/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3h0018/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 林泉高致集
+  date: '2015-08-24 23:14:08.712992'
+  source:
+    repository: kanripo
+    path: KR3h0018
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0018_000-WYG.yaml, hash: 'sha256:2f1c08c8cdafd51256d14b2df1b026c283d79662b6d689242b03d4df8dcd8747'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0018_000-WYG.markers.yaml, hash: 'sha256:caaa725e66c7defaeea2296a23921759a3fbd0b86802563d2eaee254a85dda01'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0018_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 644
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3h0018_WYG_000-4a
+    span:
+    - body
+    - 644
+    - 958
+  label: 郭氏林泉髙致集原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3h0018_WYG_000-5a
+    span:
+    - body
+    - 958
+    - 9656
+  label: 林泉髙致集
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3h0018_WYG_000-38a
+    span:
+    - body
+    - 9656
+    - 11616
+  label: 附録
+  type: section
+  level: 1
+hash: sha256:9d040140eb1167aa90be2f752dd12fa25dab78e9723043351e0d568abb9d5578
